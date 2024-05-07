@@ -3,3 +3,4 @@ Atta-ur-Rehman Hanzla
 cout << "Sum of two numbers: " << a + b << endl;
 cout << "Difference of two numbers: " << a - b << endl;
 cout << "Product of two numbers: " << a * b << endl;
+cout << "Division of two numbers: " << a / b << endl;
