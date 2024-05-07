@@ -2,3 +2,4 @@ Atta-ur-Rehman Hanzla
 23-st-018
 cout << "Sum of two numbers: " << a + b << endl;
 cout << "Difference of two numbers: " << a - b << endl;
+cout << "Product of two numbers: " << a * b << endl;
